@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">praktikum5</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">deskripsi terbuat dari tepung terigu dan mempunyai berbagai varian rasa</string>
+    <string name="ingredients">tepung terigu telur gula pasir dll</string>
+    <string name="Resep">250 gram tepung terigu protein sedang
+1/2 sendok teh garam
+1 butir telur ukuran besar
+100 gram susu kental manis putih
+280 ml air
+1/2 sendok teh baking powder
+1/2 sendok teh soda kue2 sendok makan mentega, cairkan, lalu dinginkan
+Gula pasir secukupnya untuk taburan</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_martabak">Rp.20.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="makanan">
+        <item>martabakcoklat</item>
+        <item>martabakketan</item>
+        <item>martabakmanis</item>
+        <item>Martabakhijautopingcoklat</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 5000</item>
+        <item>Rp. 7000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+
+</resources>
